@@ -12,13 +12,13 @@
   "commands": [
     {
       "name": "addLink",
-      "title": "Add link",
+      "title": "Add Link",
       "description": "Add link to a thread in MusicThread",
       "mode": "view"
     },
     {
       "name": "createThread",
-      "title": "Create thread",
+      "title": "Create Thread",
       "description": "Create new thread in MusicThread",
       "mode": "view"
     }
